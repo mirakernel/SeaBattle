@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="seaBattle.test.Test">
+  <grid id="27dc6" binding="launcher" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="360" height="479"/>
+    </constraints>
+    <properties>
+      <autoscrolls value="false"/>
+      <background color="-10530393"/>
+      <focusCycleRoot value="false"/>
+      <focusTraversalPolicyProvider value="false"/>
+      <name value=" launcher"/>
+      <opaque value="true"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="dc464" layout-manager="CardLayout" hgap="0" vgap="0">
+        <constraints/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="1b1da" class="javax.swing.JCheckBox" binding="checkBox1" default-binding="true">
+            <constraints>
+              <card name="Card1"/>
+            </constraints>
+            <properties>
+              <text value="CheckBox"/>
+            </properties>
+          </component>
+          <component id="f98af" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+            <constraints>
+              <card name="Card2"/>
+            </constraints>
+            <properties/>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
