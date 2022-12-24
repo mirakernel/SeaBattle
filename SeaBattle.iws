@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f64036-d7c2-4f45-bde3-c27923850660" name="Default Changelist" comment="first start linux 2022">
-      <change beforePath="$PROJECT_DIR$/SeaBattle.iws" beforeDir="false" afterPath="$PROJECT_DIR$/SeaBattle.iws" afterDir="false" />
-    </list>
+    <list default="true" id="99f64036-d7c2-4f45-bde3-c27923850660" name="Default Changelist" comment="before git push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -252,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671837699753</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="before git push">
+      <created>1671901919850</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671901919850</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -299,7 +304,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first start linux 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="first start linux 2022" />
+    <MESSAGE value="before git push" />
+    <option name="LAST_COMMIT_MESSAGE" value="before git push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
